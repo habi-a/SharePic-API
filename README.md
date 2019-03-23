@@ -1,7 +1,7 @@
 # SharePic API
 
 ## Pré-requis
-Avoir installer un serveur mysql, php, composer et laravel
+Avoir installé mysql, php, composer et laravel
 
 ## Installation
 
@@ -15,7 +15,7 @@ Avoir installer un serveur mysql, php, composer et laravel
 * Générer une clé passeport `$> php artisan passport:install`
 * Lancer le serveur `$> php artisan serve` (Ne pas oublier de lancer votre serveur MySQL au préalable)
 
-Vous pouvez des à présent utiliser notre API!!
+Vous pouvez dès à présent utiliser l'API.
 
 ## Routes
 
